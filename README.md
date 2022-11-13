@@ -1,9 +1,81 @@
-- 👋 Hi, I’m @Harikrushnasavaliya
-- 👀 I’m interested in Machine learning 
-- 🌱 I’m currently learning python and R
-- 📫 my contact number 91064 87490 
+<!-- ### Hi there 👋
 
-<!---
-Harikrushnasavaliya/Harikrushnasavaliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+**Yashbhayani/Yashbhayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+- 🌱 I’m currently learning **Data Structures and Algorithms, and JavaScript Framework Angular, reactJs.
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+ <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yash Bhayani</h1>
+<!-- <h3 align="center">I'm a Web and Mobile Application developer  from India.</h3> -->
+<h3 align="center">Web and App developer.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashbhayani&label=Profile%20views&color=0e75b6&style=flat" alt="Yash bhayani" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a> </p>
+
+<!-- Hi there 👋 -->
+
+🙋‍♂️ About Me
+
+- 🌱 I’m currently learning **Data Structures Algorithms, and Machine Learning.**
+
+<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+
+- 💬 Ask me about JavaScript, Asp.Net MVC and Any Logical Programming Questions, any Programming Language console Application Problem.
+
+- 📫 How to reach me **yashbhayani3007@gmail.com**
+
+- 👨‍🎓 **Student at Sal College of Engineering**
+
+👨‍💻 Skills:
+
+<a href="https://icons8.com/icon/40670/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+<a href="https://icons8.com/icon/40669/c++" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+<a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
+<a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+
+
+
+<br>
+
+🚀 Tools:
+
+<p align="left"> 
+<a href="https://icons8.com/icon/y7WGoWNuIWac/visual-studio"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
+<a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+<a href="https://icons8.com/icon/EgOU93v1DHjU/android-studio"><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/></a>
+<a href="https://icons8.com/icon/117121/pycharm"><img src="https://img.icons8.com/color/48/4a90e2/pycharm.png"/></a>
+<a href="https://icons8.com/icon/6RHskkZGRABM/sublime-text"><img src="https://img.icons8.com/fluency/48/4a90e2/sublime-text.png"/></a>
+
+</p>
+
+</p>
+👨🏼‍🤝‍👨🏼 Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/harikrushna-savaliya-0ba521186/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/harikrushna_savaliya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+              
+
+<div align="center">
+    <pre>G I T H U B  S T A T S</pre>
+    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/> </p>
+    <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikrushnasavaliya&show_icons=true&theme=tokyonight" alt="Harikrushna savaliya" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrushnasavaliya" alt="Harikrushna savaliya" /></p>
+</div>
