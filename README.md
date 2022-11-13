@@ -1,27 +1,12 @@
 <!-- ### Hi there 👋
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<!--
-**Yashbhayani/Yashbhayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Harikrushna savaliya</h1>
+<!-- <h3 align="center">I'm a Web developer from India.</h3> -->
+<h3 align="center">Web developer.</h3>
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning **Data Structures and Algorithms, and JavaScript Framework Angular, reactJs.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Yash Bhayani</h1>
-<!-- <h3 align="center">I'm a Web and Mobile Application developer  from India.</h3> -->
-<h3 align="center">Web and App developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yashbhayani&label=Profile%20views&color=0e75b6&style=flat" alt="Yash bhayani" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yashbhayani" alt="Yash Bhayani" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Harikrushnasavaliya&label=Profile%20views&color=0e75b6&style=flat" alt="Harikrushna savaliya" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harikrushnasavaliya" alt="Harikrushna savaliya" /></a> </p>
 
 <!-- Hi there 👋 -->
 
@@ -31,9 +16,7 @@ Here are some ideas to get you started:
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
-- 💬 Ask me about JavaScript, Asp.Net MVC and Any Logical Programming Questions, any Programming Language console Application Problem.
-
-- 📫 How to reach me **yashbhayani3007@gmail.com**
+- 📫 How to reach me **harekrushna.savaliya@gmail.com**
 
 - 👨‍🎓 **Student at Sal College of Engineering**
 
@@ -75,7 +58,7 @@ Here are some ideas to get you started:
 
 <div align="center">
     <pre>G I T H U B  S T A T S</pre>
-    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yashbhayani&layout=compact&langs_count=8&title_color=F58529"/> </p>
+    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harikrushnasavaliya&layout=compact&langs_count=8&title_color=F58529"/> </p>
     <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikrushnasavaliya&show_icons=true&theme=tokyonight" alt="Harikrushna savaliya" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrushnasavaliya" alt="Harikrushna savaliya" /></p>
 </div>
