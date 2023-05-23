@@ -13,11 +13,9 @@
 
 - 🌱 I’m currently learning **Data Structures Algorithms, and Machine Learning.**
 
-<!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
+- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **harekrushna.savaliya@gmail.com**
-
-- 👨‍🎓 **Student at Sal College of Engineering**
 
 👨‍💻 Skills:
 
@@ -29,9 +27,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
-<a href="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server"><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-
+<a href="https://icons8.com/icon/39856/php-logo" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/> </a>
 
 
 <br>
