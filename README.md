@@ -11,7 +11,7 @@
 
 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures Algorithms, and Machine Learning.**
+- 🌱 I’m currently learning **Angular.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
