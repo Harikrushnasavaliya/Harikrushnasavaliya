@@ -13,10 +13,8 @@
 
  
 <div align="center">
-
-🙋‍♂️ **A B O U T  M E ** : 
-
- 🌱 I’m currently learning **A B O U T M :.**
+ 
+ 🙋‍♂️ **A B O U T M E:.**
 
  <br/>
 
