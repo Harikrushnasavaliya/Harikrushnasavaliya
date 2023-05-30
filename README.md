@@ -1,8 +1,8 @@
  <a href="#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/118099956/241893439-e1b3d096-74ee-4233-8921-4ab8a5ac8759.gif"/></a>
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;">
- <iframe src="https://giphy.com/embed/7VbK6cFXvSgBpFMnfC" width="100%" height="100%" style="position:absolute" frameBorder="0"
+ <img src="https://giphy.com/embed/7VbK6cFXvSgBpFMnfC" width="100%" height="100%" style="position:absolute" frameBorder="0"
          class="giphy-embed" allowFullScreen>
- </iframe>
+ </img>
 </div>
 <p>
  <a href="https://giphy.com/gifs/game-loop-3d-7VbK6cFXvSgBpFMnfC">via GIPHY</a>
