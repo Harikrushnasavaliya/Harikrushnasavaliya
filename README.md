@@ -1,12 +1,9 @@
 <div align="center">
  <a href="#" align="center" ><img align="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/></a>
  
- 
  <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Harikrushna savaliya</h1>
-</div>
-<!-- <h3 align="center">I'm a Web developer from India.</h3> -->
-<h3 align="center">Web developer.</h3>
 
+<h3 align="center">Web developer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harikrushnasavaliya&label=Profile%20views&color=0e75b6&style=flat" alt="Harikrushna savaliya" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harikrushnasavaliya" alt="Harikrushna savaliya" /></a> </p>
 
@@ -56,7 +53,6 @@
 </p>
               
 
-<div align="center">
     <pre>G I T H U B  S T A T S</pre>
     <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harikrushnasavaliya&layout=compact&langs_count=8&title_color=F58529"/> </p>
     <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikrushnasavaliya&show_icons=true&theme=tokyonight" alt="Harikrushna savaliya" /></p>
