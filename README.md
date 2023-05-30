@@ -77,8 +77,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrushnasavaliya" alt="Harikrushna savaliya" /></p>
  
-    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harikrushnasavaliya&layout=compact&langs_count=8&title_color=F58529"/> </p>
-    <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikrushnasavaliya&show_icons=true&theme=tokyonight" alt="Harikrushna savaliya" /></p>
+<p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harikrushnasavaliya&layout=compact&langs_count=8&title_color=F58529"/> </p>
+ <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikrushnasavaliya&show_icons=true&theme=tokyonight" alt="Harikrushna savaliya" /></p>
 
 </div>
 
