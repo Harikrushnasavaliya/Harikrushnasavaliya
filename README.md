@@ -71,6 +71,13 @@
  
 ##    <pre align="center">G I T H U B  S T A T S</pre>
  
+ 
+<br>
+
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
+ 
+ <br/>
+
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harikrushnasavaliya" alt="Harikrushna savaliya" /></a>
 
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrushnasavaliya" alt="Harikrushna savaliya" />
@@ -87,9 +94,6 @@
 
 </div>
 
-<br>
-
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
 
 
 
