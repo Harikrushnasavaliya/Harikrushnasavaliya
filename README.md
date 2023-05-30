@@ -59,7 +59,8 @@
  <a href="https://icons8.com/icon/6RHskkZGRABM/sublime-text"><img src="https://img.icons8.com/fluency/48/4a90e2/sublime-text.png"/></a>
  
 </div>  
-
+<br/>
+<br/>
 <br/>
 
 ## <div align="center">  Feel free to connect with me  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></div>
