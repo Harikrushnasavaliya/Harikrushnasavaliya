@@ -12,17 +12,19 @@
 </div>
 
 
-### <div align="center"> 🙋‍♂️ A B O U T   M E : </div>
+### <div align="center"> 🙋‍♂️ ABOUT ME : </div>
 
  <br/>
 
+<div align="center">
+ 
  🌱 I’m currently learning **React.js.**
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
  📫 How to reach me **harekrushna.savaliya@gmail.com**
 
-
+</div>
 
 
 
