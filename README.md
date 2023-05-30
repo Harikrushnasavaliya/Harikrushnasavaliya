@@ -28,7 +28,7 @@
 
 <br/>
 
-### <div align="center">  Skills / Tech I have worked on: </div>
+### <div align="center"> 👨‍💻 Skills / Tech I have worked on: </div>
 
 <div align="center">
  
@@ -43,15 +43,53 @@
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
  <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a> 
-
+ <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </div>
 
+<br/>
+
+## 🚀 T O O L  S :
+
+ <br/>
+
+ <a href="https://icons8.com/icon/y7WGoWNuIWac/visual-studio"><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png"/></a>
+ <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a>
+ <a href="https://icons8.com/icon/EgOU93v1DHjU/android-studio"><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/></a>
+ <a href="https://icons8.com/icon/117121/pycharm"><img src="https://img.icons8.com/color/48/4a90e2/pycharm.png"/></a>
+ <a href="https://icons8.com/icon/6RHskkZGRABM/sublime-text"><img src="https://img.icons8.com/fluency/48/4a90e2/sublime-text.png"/></a>
+ 
+
+<br/>
+
+## Feel free to connect with me 
+<div align="center">
+ <a href = "https://www.instagram.com/harikrushna_savaliya/"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+ <a href = "https://www.linkedin.com/in/harikrushna-savaliya-0ba521186/"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
+</div>  
 
 
 
 
 
+<div align="center">
+ 
+ 👨🏼‍🤝‍👨🏼 **C O N N E C T  W I T H  M E :**
 
+ <br/>
+
+ <a href = "https://www.linkedin.com/in/harikrushna-savaliya-0ba521186/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ <a href = "https://www.instagram.com/harikrushna_savaliya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</div>
+              
+ <br/>
+
+
+<div align="center">
+    <pre>G I T H U B  S T A T S</pre>
+    <p> <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harikrushnasavaliya&layout=compact&langs_count=8&title_color=F58529"/> </p>
+    <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikrushnasavaliya&show_icons=true&theme=tokyonight" alt="Harikrushna savaliya" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrushnasavaliya" alt="Harikrushna savaliya" /></p>
+</div>
 
 
 
