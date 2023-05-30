@@ -16,7 +16,7 @@
 
 🙋‍♂️ **A B O U T  M E ** : 
 
- 🌱 I’m currently learning **React.js.**
+ 🌱 I’m currently learning **A B O U T M :.**
 
  <br/>
 
