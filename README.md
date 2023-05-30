@@ -11,6 +11,55 @@
  </p>
 </div>
 
+
+### <div> 🙋‍♂️ A B O U T  M E : </div>
+
+ <br/>
+
+ 🌱 I’m currently learning **React.js.**
+
+ 👯 I’m looking to collaborate on **OpenSource Projects**
+
+ 📫 How to reach me **harekrushna.savaliya@gmail.com**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 
+<div align="center">
+ <a href="#" ><img align="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/></a>
+ 
+ <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Harikrushna savaliya</h1>
+
+<h3>Web developer.</h3>
+
+ <p> <img src="https://komarev.com/ghpvc/?username=Harikrushnasavaliya&label=Profile%20views&color=0e75b6&style=flat"   alt="Harikrushna savaliya" /></p>
+<p> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harikrushnasavaliya" alt="Harikrushna savaliya" /></a> 
+ </p>
+</div>
+
  
 <div align="center">
  
@@ -98,3 +147,4 @@
     <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harikrushnasavaliya&show_icons=true&theme=tokyonight" alt="Harikrushna savaliya" /></p>
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harikrushnasavaliya" alt="Harikrushna savaliya" /></p>
 </div>
+ -->
