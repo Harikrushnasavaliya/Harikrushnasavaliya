@@ -11,11 +11,13 @@
  </p>
 </div>
 
-## 🙋‍♂️ About Me: 
-
- <br/>
  
 <div align="center">
+
+🙋‍♂️ **A B O U T  M E **: 
+
+ <br/>
+
  
  🌱 I’m currently learning **React.js.**
 
