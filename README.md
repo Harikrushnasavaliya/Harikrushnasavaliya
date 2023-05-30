@@ -44,12 +44,22 @@
  </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
  <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a> 
+ <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a> 
 
 </div>
 
 
+ <br/>
+ 
+ <div align="center">
+ 
+ 👨‍💻 **🗒️ D A T A B A S E :**
+
+ <br/>
+ 
+ <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+</div>
+ 
  <br/>
 
 <div align="center">
@@ -76,7 +86,6 @@
  <br/>
 
  <a href = "https://www.linkedin.com/in/harikrushna-savaliya-0ba521186/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
  <a href = "https://www.instagram.com/harikrushna_savaliya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </div>
               
