@@ -14,8 +14,9 @@
  
 <div align="center">
 
-🙋‍♂️ 
- **A B O U T  M E ** : 
+🙋‍♂️ **A B O U T  M E ** : 
+
+ 🌱 I’m currently learning **React.js.**
 
  <br/>
 
