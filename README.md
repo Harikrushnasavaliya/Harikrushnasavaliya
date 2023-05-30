@@ -1,4 +1,4 @@
-<a href="#">[Dev_animadoGIF](https://github.com/Harikrushnasavaliya/Harikrushnasavaliya/assets/118099956/e1b3d096-74ee-4233-8921-4ab8a5ac8759)
+<a href="#">< [Dev_animadoGIF](https://github.com/Harikrushnasavaliya/Harikrushnasavaliya/assets/118099956/e1b3d096-74ee-4233-8921-4ab8a5ac8759) />
 </a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Harikrushna savaliya</h1>
