@@ -48,7 +48,7 @@
 
 <br/>
 
-## 🚀 T O O L  S :
+## <div align="center">  🚀 T O O L  S : </div>
 
  <br/>
 
@@ -61,26 +61,13 @@
 
 <br/>
 
-## Feel free to connect with me 
+## <div align="center">  Feel free to connect with me </div>
 <div align="center">
  <a href = "https://www.instagram.com/harikrushna_savaliya/"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
  <a href = "https://www.linkedin.com/in/harikrushna-savaliya-0ba521186/"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
 </div>  
 
-
-
-
-
-<div align="center">
- 
- 👨🏼‍🤝‍👨🏼 **C O N N E C T  W I T H  M E :**
-
- <br/>
-
- <a href = "https://www.linkedin.com/in/harikrushna-savaliya-0ba521186/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- <a href = "https://www.instagram.com/harikrushna_savaliya/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</div>
-              
+     
  <br/>
 
 
