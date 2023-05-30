@@ -12,8 +12,7 @@
 </div>
 
 <div align="center">
-
-🙋‍♂️ About Me
+##🙋‍♂️ About Me
 
  🌱 I’m currently learning **React.js.**
 
