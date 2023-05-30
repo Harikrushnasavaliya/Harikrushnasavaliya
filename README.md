@@ -3,7 +3,6 @@
  <br/>
  <br/>
  <br/>
- <br/>
  <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
 
  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Harikrushna savaliya</h1>
