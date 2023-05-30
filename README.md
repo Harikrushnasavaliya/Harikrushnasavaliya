@@ -12,7 +12,7 @@
 </div>
 
 
-### <div> 🙋‍♂️ A B O U T  M E : </div>
+### <div align="center"> 🙋‍♂️ A B O U T  M E : </div>
 
  <br/>
 
