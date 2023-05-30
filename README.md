@@ -1,5 +1,5 @@
 <div align="center">
- <a href="#" ><img align="center" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/></a>
+ <a href="#" ><img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/></a>
  
  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Harikrushna savaliya</h1>
 
