@@ -9,7 +9,7 @@
 </div>
 
 
-### <div align="center"> 🙋‍♂️ ABOUT ME : </div>
+## <div align="center"> 🙋‍♂️ ABOUT ME : </div>
 
  <br/>
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-### <div align="center"> 👨‍💻 Skills / Tech I have worked on: </div>
+## <div align="center"> 👨‍💻 Skills / Tech I have worked on: </div>
 
 <div align="center">
  
