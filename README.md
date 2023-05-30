@@ -88,9 +88,8 @@
  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harikrushnasavaliya&layout=compact&langs_count=8&title_color=F58529"/>
 
  <br/>
-
+ <br/>
  <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px">
- 
 </div>
 
 
