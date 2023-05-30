@@ -26,11 +26,25 @@
 
 </div>
 
+<br/>
 
+### <div align="center">  Skills / Tech I have worked on: </div>
 
+<div align="center">
+ 
+ <a href="https://icons8.com/icon/40670/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+ <a href="https://icons8.com/icon/40669/c++" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+ <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+ <a href="https://icons8.com/icon/39856/php-logo" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/>
+ </a>
+ <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+ <a href="https://www.djangoproject.com/"><img src="https://img.icons8.com/windows/50/2ECC71/django.png"/></a>
+ <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/angularjs.png"/> </a> 
 
-
-
+</div>
 
 
 
