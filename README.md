@@ -14,7 +14,7 @@
  
 <div align="center">
  
- 🙋‍♂️ **A B O U T M E:.**
+ 🙋‍♂️ **A B O U T M E :**
 
  <br/>
 
