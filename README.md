@@ -1,6 +1,7 @@
 <div align="center">
  <a href="#" ><img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/></a>
- 
+ <img align="right" alt="Coding" width="450" src="http://octodex.github.com/images/daftpunktocat-guy.gif">
+
  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Harikrushna savaliya</h1>
 
 <h3>Web developer.</h3>
