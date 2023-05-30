@@ -9,17 +9,18 @@
 <p> 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Harikrushnasavaliya" alt="Harikrushna savaliya" /></a> 
  </p>
+</div>
 
 <div align="center">
 
 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **React.js.**
+ 🌱 I’m currently learning **React.js.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+ 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **harekrushna.savaliya@gmail.com**
-
+ 📫 How to reach me **harekrushna.savaliya@gmail.com**
+</div>
 👨‍💻 Skills:
 
 <a href="https://icons8.com/icon/40670/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
