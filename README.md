@@ -12,8 +12,11 @@
 </div>
 
 <div align="center">
+ 
 ##🙋‍♂️ About Me
 
+ <br/>
+ 
  🌱 I’m currently learning **React.js.**
 
  👯 I’m looking to collaborate on **OpenSource Projects**
