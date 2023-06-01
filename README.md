@@ -1,5 +1,5 @@
 <div align="center">
-<img width="68%"    src="https://raw.githubusercontent.com/gist/abnsl0014/9d726586bd9246d133a9ddc6391cd2f0/raw/9a0d296d5f8549a8872ca0c3bcfdf3166a915c9e/computer.gif"/>
+<!-- <img width="68%"    src="https://raw.githubusercontent.com/gist/abnsl0014/9d726586bd9246d133a9ddc6391cd2f0/raw/9a0d296d5f8549a8872ca0c3bcfdf3166a915c9e/computer.gif"/> -->
 
 
  <img align="left" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif"/>
