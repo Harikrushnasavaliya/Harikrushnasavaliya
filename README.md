@@ -68,7 +68,7 @@
 
 ## <div align="center">  Feel free to connect with me  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></div>
 <div align="center">
- <a href = "https://www.instagram.com/harikrushna_savaliya/"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+ <a href = "https://www.instagram.com/harikrushnasavaliya/"><img src="https://img.shields.io/badge/Instagram-F58529?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
  <a href = "https://www.linkedin.com/in/harikrushna-savaliya-0ba521186/"><img src="https://img.shields.io/badge/LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
 </div>  
 
