@@ -21,7 +21,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **React.js.**
+ 🌱 I’m currently learning **React.js.**  and **Node.js**
 
  👯 I’m looking to collaborate on **OpenSource Projects**
 
